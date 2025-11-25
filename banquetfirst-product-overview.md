@@ -1,4 +1,4 @@
-# Landmark ERP UI - Project Features Summary
+# Banquet First ERP UI - Project Features Summary
 
 ## Project Overview
 
